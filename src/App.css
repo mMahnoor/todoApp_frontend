@@ -1,0 +1,11 @@
+#root {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    /* background-color: black; */
+    background-image: url('./assets/SVGs/home.svg');
+    /* position: absolute; */
+    /* padding-top: 2rem; */
+    /* text-align: center; */
+  }
+  
